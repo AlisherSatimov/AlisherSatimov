@@ -20,6 +20,7 @@
 
 ## Socials:
 
+- [LinkdIn](https://www.linkedin.com/in/alishersatimov/)
 - [Telegram](https://t.me/+998976000617)
 - [Discord](https://discord.com/users/alishersatimov#3440)
 - [Facebook](https://www.facebook.com/profile.php?id=100075801456756)
