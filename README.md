@@ -28,4 +28,4 @@
 
 - +998976000617
 - +998900900966
-- [alishersatimov07@gmail.com](alishersatimov07@gmail.com)
+- alishersatimov07@gmail.com
