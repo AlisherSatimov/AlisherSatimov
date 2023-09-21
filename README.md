@@ -21,4 +21,4 @@
 ## Socials:
 
 [Telegram](https://t.me/Alisher_Satimov)
-[Discord](https://discord.com/users/alishersatimov#3440)https://discord.com/users/alishersatimov#3440)
+[Discord](https://discord.com/users/alishersatimov#3440)
