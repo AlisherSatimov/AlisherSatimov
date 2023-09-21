@@ -2,7 +2,7 @@
 
 ### 💻 Frontend Web Developer 💻
 
-# Frontend:
+## Frontend:
 
 - HTML
 - CSS
