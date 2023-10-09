@@ -8,6 +8,7 @@
 - CSS
 - SASS
 - Bootstrap
+- Tailwind CSS
 - JavaScript
 
 ## Tools:
