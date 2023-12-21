@@ -10,6 +10,8 @@
 - Bootstrap
 - Tailwind CSS
 - JavaScript
+- Web API
+- ReactJS
 
 ## Tools:
 
