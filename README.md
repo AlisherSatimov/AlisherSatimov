@@ -12,10 +12,12 @@
 - JavaScript
 - Web API
 - ReactJS
+- Redux Toolkit | Redux Toolkit
 
 ## Tools:
 
-- npm
+- NPM
+- Yarn
 - Chrome DevTools
 - Git - GitHub
 - Visual Studio Code
