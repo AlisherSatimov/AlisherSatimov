@@ -13,6 +13,7 @@
 - Web API
 - ReactJS
 - Redux Toolkit | Redux Toolkit
+- TypeScript
 
 ## Tools:
 
@@ -34,4 +35,4 @@
 
 - +998976000617
 - +998900900966
-- alishersatimov07@gmail.com
+- mailto: alishersatimov07@gmail.com
