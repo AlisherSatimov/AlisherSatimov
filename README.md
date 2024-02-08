@@ -35,4 +35,4 @@
 
 - +998976000617
 - +998900900966
-- mailto: alishersatimov07@gmail.com
+- alishersatimov07@gmail.com
