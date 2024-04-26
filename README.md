@@ -14,6 +14,7 @@
 - ReactJS
 - Redux Toolkit | Redux Toolkit
 - TypeScript
+- Next.js
 
 ## Tools:
 
