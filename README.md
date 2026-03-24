@@ -1,8 +1,14 @@
 <div align="center">
 
+# Alisher Satimov
+
 ### Frontend Engineer · UI Architect · React Specialist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+fast%2C+scalable+UIs;Turning+designs+into+pixel-perfect+code;Obsessed+with+clean+architecture;Next.js+%7C+React+%7C+TypeScript)](https://git.io/typing-svg)
+
+🟢 **Open to Part-time & Remote opportunities**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-blackbit.dev-00D9FF?style=for-the-badge)](https://blackbit.dev)
 
 </div>
 
@@ -15,18 +21,34 @@ const alisher: Developer = {
   name: "Alisher Satimov",
   role: "Senior Frontend Developer",
   location: "Uzbekistan 🇺🇿",
-  
+
   passion: "Crafting seamless user experiences with clean, maintainable code",
-  
+
   currentFocus: [
     "Building scalable React/Next.js applications",
     "TypeScript-first development",
     "Performance optimization & Core Web Vitals",
   ],
 
+  availability: "Part-time · Remote · Open to collaboration",
+
+  portfolio: "https://blackbit.dev",
+
   philosophy: "Code is read more often than it is written — write it accordingly.",
 };
 ```
+
+---
+
+## 💼 Featured Work
+
+> All projects are currently private. Full case studies available at **[blackbit.dev](https://blackbit.dev)**
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| 🏢 Corporate Web Platform | Next.js · TypeScript · Tailwind CSS | Multi-page business platform with SSR and dynamic routing |
+| 🛒 E-commerce UI | React · Redux Toolkit · SCSS | Product catalog, cart, and checkout flow |
+| 🎨 Design System | React · TypeScript · Storybook | Reusable component library with full documentation |
 
 ---
 
@@ -70,7 +92,7 @@ const alisher: Developer = {
 
 ---
 
-## 🏆 GitHub Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alishersatimov&theme=tokyo-night&hide_border=true" />
@@ -97,6 +119,7 @@ const alisher: Developer = {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-blackbit.dev-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://blackbit.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alishersatimov/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+998976000617)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/alishersatimov#3440)
