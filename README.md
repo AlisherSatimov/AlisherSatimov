@@ -1,18 +1,5 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║        █████╗ ██╗     ██╗███████╗██╗  ██╗███████╗██████╗ ║
-║       ██╔══██╗██║     ██║██╔════╝██║  ██║██╔════╝██╔══██╗║
-║       ███████║██║     ██║███████╗███████║█████╗  ██████╔╝║
-║       ██╔══██║██║     ██║╚════██║██╔══██║██╔══╝  ██╔══██╗║
-║       ██║  ██║███████╗██║███████║██║  ██║███████╗██║  ██║║
-║       ╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
 ### Frontend Engineer · UI Architect · React Specialist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+fast%2C+scalable+UIs;Turning+designs+into+pixel-perfect+code;Obsessed+with+clean+architecture;Next.js+%7C+React+%7C+TypeScript)](https://git.io/typing-svg)
