@@ -70,10 +70,10 @@ const alisher: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alishersatimov&theme=nord&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alishersatimov&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
