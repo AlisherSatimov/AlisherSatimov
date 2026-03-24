@@ -60,12 +60,12 @@ const alisher: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alishersatimov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alishersatimov&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishersatimov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alishersatimov&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=alishersatimov&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -73,7 +73,7 @@ const alisher: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alishersatimov&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alishersatimov&theme=nord&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
