@@ -19,7 +19,7 @@
 ```typescript
 const alisher: Developer = {
   name: "Alisher Satimov",
-  role: "Senior Frontend Developer",
+  role: "Middle Frontend Developer",
   location: "Uzbekistan 🇺🇿",
 
   passion: "Crafting seamless user experiences with clean, maintainable code",
